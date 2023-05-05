@@ -1,0 +1,17 @@
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\bin\Debug\net7.0\test32.Service.deps.json
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\bin\Debug\net7.0\test32.Service.dll
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\bin\Debug\net7.0\test32.Service.pdb
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\bin\Debug\net7.0\test32.DataAccess.dll
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\bin\Debug\net7.0\test32.DTO.dll
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\bin\Debug\net7.0\test32.DTO.pdb
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\bin\Debug\net7.0\test32.DataAccess.pdb
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\obj\Debug\net7.0\test32.Service.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\obj\Debug\net7.0\test32.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\obj\Debug\net7.0\test32.Service.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\obj\Debug\net7.0\test32.Service.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\obj\Debug\net7.0\test32.Service.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\obj\Debug\net7.0\test32.Service.csproj.CopyComplete
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\obj\Debug\net7.0\test32.Service.dll
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\obj\Debug\net7.0\refint\test32.Service.dll
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\obj\Debug\net7.0\test32.Service.pdb
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.Service\obj\Debug\net7.0\ref\test32.Service.dll

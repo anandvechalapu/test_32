@@ -1,0 +1,15 @@
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\bin\Debug\net7.0\test32.DataAccess.deps.json
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\bin\Debug\net7.0\test32.DataAccess.dll
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\bin\Debug\net7.0\test32.DataAccess.pdb
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\bin\Debug\net7.0\test32.DTO.dll
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\bin\Debug\net7.0\test32.DTO.pdb
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\obj\Debug\net7.0\test32.DataAccess.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\obj\Debug\net7.0\test32.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\obj\Debug\net7.0\test32.DataAccess.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\obj\Debug\net7.0\test32.DataAccess.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\obj\Debug\net7.0\test32.DataAccess.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\obj\Debug\net7.0\test32.DataAccess.csproj.CopyComplete
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\obj\Debug\net7.0\test32.DataAccess.dll
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\obj\Debug\net7.0\refint\test32.DataAccess.dll
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\obj\Debug\net7.0\test32.DataAccess.pdb
+C:\Amar\Debug\Apps\1\695\202305055425\test32\test32.DataAccess\obj\Debug\net7.0\ref\test32.DataAccess.dll
